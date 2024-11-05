@@ -7,7 +7,7 @@
 
 **Thoughts:** Oh my gosh, coding is so much more work than I thought it would be, even with basic things like what I just did. I feel like I'm gonna become a sleep deprived programmer nerd once I'm done with this challenge. Other than that though, this was really exciting but exhausting to do :D
 
-**Link to work:** https://github.com/Summer391/100-days-projects It's the file named "Day 1 Project.html"
+**Link to work:** https://github.com/Summer391/100-days-projects/blob/main/DailyProjects/Day-1-Project.html
 
 
 
@@ -18,7 +18,7 @@
 
 **Thoughts:** I'm loving this programming thing so far. I feel challenged, like I'm making progress, like I'm being productive, and like I'm applying my knoweldge :D
 
-**Link to work:** https://github.com/Summer391/100-days-projects/blob/main/Day%202%20Project.html Or you can go to my repository named "100 days projects" and look at all of them there, including the day 2 one :D
+**Link to work:** https://github.com/Summer391/100-days-projects/blob/main/DailyProjects/Day-2-Project.html Or you can go to my repository named "100 days projects" and look at all of them there, including the day 2 one :D
 
 
 
