@@ -19,3 +19,12 @@
 **Thoughts:** I'm loving this programming thing so far. I feel challenged, like I'm making progress, like I'm being productive, and like I'm applying my knoweldge :D
 
 **Link to work:** https://github.com/Summer391/100-days-projects/blob/main/Day%202%20Project.html Or you can go to my repository named "100 days projects" and look at all of them there, including the day 2 one :D
+
+
+
+### Day 3: November 4, 2024
+#####
+
+**Today's Progress**: I finally got a move on with HTML and started learning some basic CSS. I can already tell that this is going to be a challenge, as I spent an unbelievable amount of time trying to figure out how to target in CSS properly. I also struggled A LOT with aligning elements the way I wanted, that's definitely something I need to learn, along with just about everything else about CSS (although I do have a few fundamental things in my brain already). I also forgot a lot of html when I was making a basic styled web page, so I should probably be either reviewing it often, or using it more often, creating a wider variety of web pages that solidify my understanding of specific HTML tags. Other than all of that, it feels like another day of succesful coding, feeling challenged, struggling, learning new things, and growth :D
+
+**Link to work:** https://github.com/Summer391/100-days-projects/tree/main/DailyProjects/Day-3-Project
